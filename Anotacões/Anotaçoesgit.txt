@@ -1,0 +1,19 @@
+O Git é sistema de versionamento de código distribuido
+( é um sistema de controle de versões distribuído).
+Windows
+-cd = 
+-dir = lista de diretorio
+-mkdir
+-del/rmdir
+SHA1 algoritmo de criptografia a encriptação gera um conjunto de caracteres de 40
+digitos para identificação
+uma forma curta de representar um arquivo
+Blobs=  
+Trees 
+Commits
+chaves ssh = é um protocolo que permite a conexão com servidores remotos,
+ de forma criptografada e mais segura, usando um par de chaves RSA.
+tokens
+-git init
+-git add
+-git commit
